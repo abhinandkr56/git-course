@@ -12,3 +12,35 @@ sdjfnojsfn
 ofnownf
 wdofnoewnf
 daodfnon
+conflict conflict
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+
+
