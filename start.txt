@@ -4,5 +4,5 @@ HIHIHIBI
 The newline added
 
 Ne branch added
-checking disable fast fwd merge
+ checking disable fast fwd merge
 
