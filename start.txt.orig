@@ -1,0 +1,49 @@
+HIHIHIBI
+
+
+The newline added
+
+Ne branch added
+ checking disable fast fwd merge
+
+<<<<<<< HEAD
+dsojfnojsnfjsnf
+adcnsofnosnf
+sdjfnojsfn
+ofnownf
+wdofnoewnf
+daodfnon
+=======
+
+conflict conflict
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+git push -d <remote_name> <branchname>
+
+>>>>>>> realwork
