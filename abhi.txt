@@ -1,4 +1,4 @@
-new file in feture branch
+okandnew file in feture branch
 some text in feature
 some text in feture
 some text in feature
