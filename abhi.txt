@@ -1,1 +1,6 @@
 new file in feture branch
+this is a text in master for confli
+
+ddeedwedeqqe
+efwedew
+ewrwee
